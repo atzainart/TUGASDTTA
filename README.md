@@ -2,7 +2,7 @@
 
 [![N|Solid](https://madrasahhebat.my.id/assets1/KalkulatorHeader.png)](https://madrasahhebat.my.id/TugasPHP.php)
 
-Aplikasi Kalkulator sederhana ini dibuat untuk memenuhi tugas Pelatihan Online DTS Thematic Academy Pesantren Pendis Tahun 2021 Gelombang Ke-2 - Junior Web Developer yang diselenggarakan oleh Kominfo, Digital Talent Scholarship dan BPPTIK.
+Aplikasi Kalkulator sederhana ini dibuat untuk memenuhi tugas Pelatihan Online DTS Thematic Academy Pesantren Pendis Tahun 2021 Gelombang Ke-2 - Junior Web Developer yang diselenggarakan oleh Kominfo, Digital Talent Scholarship dan BPPTIK serta bekerjasama dengan Kementerian Agama RI.
 
 ## Fungsi
 Aplikasi sederhana ini dapat berfungsi melakukan empat jenis perhitungan secara bersamaan, yakni:
